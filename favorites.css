@@ -1,0 +1,16 @@
+html {
+    background-color: azure;
+}
+
+h2 {
+    color:blueviolet;
+}
+
+.favimages {
+    width:300px;
+    margin:10px;
+}
+
+.favlist {
+    color:blue;
+}
